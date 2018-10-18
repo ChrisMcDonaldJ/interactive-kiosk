@@ -1,0 +1,182 @@
+/*!
+ * Bootstrap v4.0.0-beta.2 (https://getbootstrap.com)
+ * Copyright 2011-2017 The Bootstrap Authors
+ * Copyright 2011-2017 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+@import "functions";
+@import "variables";
+@import "mixins";
+@import "root";
+@import "print";
+@import "reboot";
+@import "type";
+@import "images";
+@import "code";
+@import "grid";
+@import "tables";
+@import "forms";
+@import "buttons";
+@import "transitions";
+@import "dropdown";
+@import "button-group";
+@import "input-group";
+@import "custom-forms";
+@import "nav";
+@import "navbar";
+@import "card";
+@import "breadcrumb";
+@import "pagination";
+@import "badge";
+@import "jumbotron";
+@import "alert";
+@import "progress";
+@import "media";
+@import "list-group";
+@import "close";
+@import "modal";
+@import "tooltip";
+@import "popover";
+@import "carousel";
+@import "utilities";
+
+@import "fonts";
+@import "literallycanvas";
+
+/* MAIN STYLING */
+body {
+  color: #242724;
+  background-color: white;
+  padding: 20px;
+}
+h1 {
+  margin: 0px;
+  font-size: 4vw;
+  text-transform: uppercase;
+  font-family: "swiss721boldcondensed";
+}
+h2 {
+  margin: 0px;
+  color: #fcfae5;
+  font-size: 3vw;
+  text-transform: uppercase;
+  font-family: "swiss721boldcondensed";
+}
+p {
+  margin: 0px;
+  font-size: 1.35vw;
+  font-family: "swiss721light";
+}
+a,
+a:hover {
+  color: #1f1718;
+}
+
+/* BORDER */
+.border-left {
+  position: fixed;
+  background-color: #e3302d;
+  width: 65%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.border-right {
+  position: fixed;
+  background-color: #e94c3b;
+  width: 35%;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+.icon {
+  width: 2.5vw;
+  height: 2.5vw;
+  margin: 0.4vw 0;
+}
+
+/* CONTAINERS/BLOCKS */
+.main {
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  bottom: 50px;
+  left: 50px;
+  display: -webkit-inline-box;
+}
+
+.block-orange {
+  height: 100%;
+  width: 35%;
+  background-color: #f49828;
+}
+
+.block-black {
+  height: 100%;
+  width: 5%;
+  background-color: #242724;
+}
+
+.block-white {
+  height: 100%;
+  width: 35%;
+  background-color: #fcfae5;
+}
+
+.block-pink {
+  height: 100%;
+  width: 25%;
+  background-color: #ea5a97;
+}
+
+/* MENU */
+.menu {
+  background-color: #242724;
+  display: grid;
+  z-index: 10;
+  border-radius: 6px;
+  text-align: center;
+}
+
+#tool-color {
+  border: none!important;
+  outline: 0;
+  width: 100%;
+  height: 2.5vw;
+  background: none;
+  border-radius: 6px;
+}
+
+/* BUTTONS */
+button {
+  font-size: 2vw;
+  padding: 10px 20px 5px;
+  color: white;
+  background-color: #242724;
+  border: none;
+  font-family: "swiss721bold";
+  text-transform: uppercase;
+}
+
+/* CANVAS */
+.literally {
+  background-color: transparent;
+  position: absolute;
+  touch-action: manipulation;
+  width: 100%;
+  height: 100%;
+}
+
+.literally img.background,
+.literally > canvas {
+  position: absolute;
+}
+
+.tool {
+  padding: 0.5vw 0.8vw;
+}
+
+.tool.current {
+  background-color: #03a9f4;
+}

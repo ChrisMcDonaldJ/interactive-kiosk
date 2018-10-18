@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="476.19601"
+   viewBox="0 0 1000 476.19601"
+   version="1.1"
+   id="svg39727"
+   sodipodi:docname="NGV.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata39731">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>NGV_HORIZONTAL</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview39729"
+     showgrid="false"
+     inkscape:zoom="0.47870876"
+     inkscape:cx="403.58417"
+     inkscape:cy="167.12429"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg39727" />
+  <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title39719">NGV_HORIZONTAL</title>
+  <desc
+     id="desc39721">Created with Sketch.</desc>
+  <defs
+     id="defs39723" />
+  <g
+     id="Page-1"
+     transform="matrix(1.1920571,0,0,1.1920571,0,-0.6268484)"
+     style="fill:#242724;fill-rule:evenodd;stroke:none;stroke-width:1">
+    <path
+       d="M 727.18,320.132 H 670.962 L 633.935,80.153 h 38.057 l 28.791,195.754 28.798,-195.754 h 34.625 z M 475.665,161.059 H 440.01 v -25.711 c 0,-17.142 -7.539,-23.654 -19.54,-23.654 -11.993,0 -19.54,6.512 -19.54,23.654 v 129.589 c 0,17.142 7.547,23.309 19.54,23.309 12.001,0 19.54,-6.167 19.54,-23.309 v -44.224 h -17.138 v -34.284 h 52.793 v 76.11 c 0,38.393 -19.191,60.336 -56.218,60.336 -37.026,0 -56.225,-21.943 -56.225,-60.336 V 137.75 c 0,-38.398 19.199,-60.34 56.225,-60.34 37.027,0 56.218,21.942 56.218,60.34 z M 199.737,320.132 H 160.99 L 114.032,146.319 V 320.132 H 80.089 V 80.153 h 47.308 L 166.135,223.8 V 80.153 h 33.602 z M 0,400 H 838.886 V 0.526 H 0 Z"
+       id="NGV_HORIZONTAL"
+       inkscape:connector-curvature="0"
+       style="fill:#242724" />
+  </g>
+</svg>
