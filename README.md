@@ -30,6 +30,6 @@ You will also see any lint errors in the console.
 
 ## Design Inspiration
 The colours and layout of the welcome page was inspired by Mark Rothko's **White Center** and the layouts shown below.
-| Welcome Page | Welcome Page Alternative
+Welcome Page | Welcome Page Alternative
 --- | ---
 ![](https://cdn.dribbble.com/users/1440512/screenshots/3339911/rothko.png) | ![](https://cdn.dribbble.com/users/1440512/screenshots/3339911/attachments/723797/klimt.png)
