@@ -23,16 +23,5 @@
   "scripts": {
     "start": "grunt",
     "build": "grunt compile-sass"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bassjobsen/bootstrap-basic-template.git"
-  },
-  "bugs": {
-    "url": "https://github.com/bassjobsen/bootstrap-basic-template/issues",
-    "email": "bass@w3masters.nl"
-  },
-  "author": "Bass Jobsen <bass@w3masters.nl> (http://bassjobsen.weblogs.fm)",
-  "license": "MIT",
-  "private": true
+  }
 }
